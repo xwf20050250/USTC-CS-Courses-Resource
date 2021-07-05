@@ -1,3 +1,4 @@
+中国科学技术大学课程资源
 
 # 中国科学技术大学课程资源
 [![Stars](https://img.shields.io/github/stars/mbinary/USTC-CS-Courses-Resource.svg?label=Stars&style=social)](https://github.com/mbinary/USTC-CS-Courses-Resource/stargazers)
